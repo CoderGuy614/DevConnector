@@ -11,7 +11,6 @@ import {
   GET_PROFILES,
   GET_REPOS,
 } from "./types";
-import { response } from "express";
 
 //Get current users profile
 
